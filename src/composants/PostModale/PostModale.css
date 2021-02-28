@@ -1,0 +1,27 @@
+.PostComplet {
+    background: #fae6e6;
+    width: 80%;
+    height: auto;
+    max-width: 400px;
+    min-height: 300px;
+    margin: 20px auto;
+    border: 1px solid rgb(179, 179, 179);
+    border-radius: 15px;
+    box-shadow: 0 2px 3px #ccc;
+    text-align: center;
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btnPost {
+    position: absolute;
+    right:20px;
+    top: 0px;
+}
+
+.PostComplet h1 {
+    margin-top: 50px;
+}
+
